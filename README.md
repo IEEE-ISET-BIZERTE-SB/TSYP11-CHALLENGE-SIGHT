@@ -22,9 +22,10 @@ company review.mp4
 Additional Documents:
 Rapport-dAudit.pdf
 Technologies Used:
-
+<br>
 List the technologies that you used to develop the website : Angular 17
 notes to run the website on your pc : 
+<br>
 <blackquotes>
 Prerequisites for running an Angular application on your PC:
 Operating system:
