@@ -1,63 +1,48 @@
-# TSYP11-CHALLENGE-SIGHT
-<h1 style="text-align:center;color:blue">WE THE NORTH</h1>
+# We The North - SIGHT Forward Challenge
 
-This repository contains the submission of Team we the north for the "SIGHT forward" challenge at the 11th TSYP Congress, focusing on developing innovative solutions to address recurring power and water outages in African communities.
+## Team Members:
+- **Temimi Nourallah**
+- **Hkimi Mohamed Amin**
+- **Ammar Imen**
+- **Boubakri Mohamed Raed**
 
-Team Members:
+## Introduction:
 
-temimi nourallah
-hkimi mohamed amin 
-ammar imen
-Boubakri mohamed raed
+Welcome to the submission of Team "We The North" for the "SIGHT forward" challenge at the 11th TSYP Congress. We are dedicated to addressing the persistent power and water outages affecting communities in Africa. Our innovative solution focuses on providing sustainable and reliable resources to empower these communities to thrive.
+
+## Submitted Materials:
+
+- 🎨 [**Presentation**](https://www.canva.com/design/DAF05nSjkIk/AZekPmXKtcbn3Der9g8Mhw/edit?utm_content=DAF05nSjkIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 [**PDF Report**](SIGHT-IEEE-Iset-Bizerte.pdf)
+- 🎥 [**Video: Company Review**](company%20review.mp4)
+- 📑 [**Additional Document: Rapport-dAudit.pdf**](Rapport-dAudit.pdf)
 
 
-Submitted Materials:
+## Technologies Used:
 
-<a href="https://www.canva.com/design/DAF05nSjkIk/AZekPmXKtcbn3Der9g8Mhw/edit?utm_content=DAF05nSjkIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presentation</a>
-PDF Report:
-SIGHT-IEEE-Iset-Bizerte.pdf 
- company report 
-Video:
-company review.mp4
-Additional Documents:
-Rapport-dAudit.pdf
-Technologies Used:
-<br>
-List the technologies that you used to develop the website : Angular 17
-notes to run the website on your pc : 
-<br>
-<blackquotes>
-Prerequisites for running an Angular application on your PC:
-Operating system:
-One of the following operating systems:
-Windows 10 or 11 (64-bit)
-macOS 10.14 Mojave or later
-Linux Ubuntu 20.04 LTS or later
-Software:
+- **Angular 17**
 
-Node.js: Version 16.13.0 or later
-You can download and install Node.js from the official website: https://nodejs.org/en/download
-npm: The Node Package Manager will be installed with Node.js.
-Web browser: A modern web browser that supports the latest web standards, such as:
-Google Chrome
-Mozilla Firefox
-Microsoft Edge
-Apple Safari
-Optional:
-Integrated Development Environment (IDE): An IDE can provide helpful features for developing and debugging Angular applications, such as code completion, syntax highlighting, and debugging tools. Popular IDEs for Angular include:
-Visual Studio Code
-WebStorm
-IntelliJ IDEA
-Angular CLI: The Angular CLI (Command Line Interface) is a tool that helps you create, develop, and build Angular applications. While not strictly necessary, it can streamline the development process.
-Hardware:
+## Running the Website:
 
-Your computer should have sufficient processing power and memory to run the application smoothly. The recommended minimum specifications are:
-Processor: Intel Core i5 or equivalent
-Memory: 8GB RAM
-Storage: 10GB of free disk space
-Additional notes:
+### Prerequisites:
 
-Ensure that your system meets all the above requirements before attempting to run an Angular application.
-The specific version of Node.js required may vary depending on the Angular version you are using. Consult the documentation for your specific Angular version for the latest requirements.
-Some applications may have additional system requirements or dependencies. Refer to the documentation for the specific application you are trying to run. 
-</blackquotes>
+- **Operating System:** Windows 10 or 11 (64-bit), macOS 10.14 Mojave or later, or Linux Ubuntu 20.04 LTS or later
+- **Software:**
+  - **Node.js:** Version 16.13.0 or later (download from [Node.js website](https://node.js.org/en/download/))
+  - **npm** (installed with Node.js)
+  - **Web browser:** Chrome, Firefox, Edge, or Safari
+- **Optional:**
+  - **Integrated Development Environment (IDE):** Visual Studio Code, WebStorm, or IntelliJ IDEA
+  - **Angular CLI (recommended)**
+
+### Instructions:
+
+1. Install Node.js and npm.
+2. Open a terminal and navigate to the root directory of the website project.
+3. Run the following command to install dependencies: `npm install`.
+4. To start the development server, run: `ng serve`.
+5. The website will be accessible at [http://localhost:4200](http://localhost:4200) in your web browser.
+
+## Additional Information:
+
+Feel free to explore the provided materials and documentation for a comprehensive understanding of our solution. For any inquiries, please contact the team members listed above.
